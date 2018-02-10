@@ -1,3 +1,10 @@
+/****************************************************************************
+ *
+ * Created by: Matthew lourenco
+ * Created on: Feb 2018
+ * This program prints "Hello world!"
+ *
+ ****************************************************************************/
 
 public class HelloWorld {
 
@@ -5,5 +12,4 @@ public class HelloWorld {
 		// Prints "Hllo world!"
 		System.out.println("Hello world!");
 	}
-
 }
